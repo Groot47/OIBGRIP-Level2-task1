@@ -1,1 +1,1 @@
-# OIBGRIP-Level2-task1
+# OIBGRIP-Level-2-Task-1-Calculator
